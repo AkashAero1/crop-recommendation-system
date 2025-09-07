@@ -1,0 +1,15 @@
+numpy
+pandas 
+matplotlib
+seaborn
+fastapi
+streamlit
+scikit-learn
+lightbgm
+uvicorn
+time
+requests
+pydantic
+fastapi
+pickle
+typing
